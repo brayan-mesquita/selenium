@@ -232,3 +232,95 @@ JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 55
 1596919219351	Marionette	INFO	Stopped listening on port 42065
 1596919318017	Marionette	INFO	Stopped listening on port 36619
 1596919555124	Marionette	INFO	Stopped listening on port 45243
+1598486611567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYVmJG3"
+1598486614222	Marionette	INFO	Listening on port 43279
+1598486614276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598486633385	Marionette	INFO	Stopped listening on port 43279
+1598486844428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekWyVG8"
+1598486846730	Marionette	INFO	Listening on port 43365
+1598486846766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598486923551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqKvYOh"
+1598486925807	Marionette	INFO	Listening on port 42151
+1598486925858	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1598487316815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePTSrSw"
+1598487319265	Marionette	INFO	Listening on port 38583
+1598487319336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598487349176	Marionette	INFO	Stopped listening on port 38583
+1598487349611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9wNPkv"
+1598487352097	Marionette	INFO	Listening on port 38823
+1598487352138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598487374113	Marionette	INFO	Stopped listening on port 38823
+1598487414013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU5PXRs"
+1598487416491	Marionette	INFO	Listening on port 42559
+1598487416522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1598487426231	Marionette	INFO	Stopped listening on port 42559
+1598487510842	Marionette	INFO	Stopped listening on port 43365
+1601326180572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKXMr7Y"
+1601326183704	Marionette	INFO	Listening on port 37705
+1601326183795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326236022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS2hi1h"
+1601326238919	Marionette	INFO	Listening on port 44153
+1601326238952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326285533	Marionette	INFO	Stopped listening on port 44153
+1601326296685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMRZlY1"
+1601326299604	Marionette	INFO	Listening on port 42641
+1601326299693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326376871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMMAXB1"
+1601326379709	Marionette	INFO	Listening on port 44803
+1601326379780	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601326413680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemSaRTh"
+1601326416603	Marionette	INFO	Listening on port 34745
+1601326416694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1601326448348	Marionette	INFO	Stopped listening on port 34745
+1601326448382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCGjv34"
+1601326451341	Marionette	INFO	Listening on port 40321
+1601326451398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326476228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7MJPHZ"
+1601326479272	Marionette	INFO	Listening on port 36777
+1601326479337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326492906	Marionette	INFO	Stopped listening on port 36777
+1601326505937	Marionette	INFO	Stopped listening on port 40321
+1601326506766	Marionette	INFO	Stopped listening on port 37705
+1601326547237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex7XRq0"
+1601326550023	Marionette	INFO	Listening on port 41523
+1601326550056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326568548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMGtRL"
+1601326571367	Marionette	INFO	Listening on port 46339
+1601326571467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326579260	Marionette	INFO	Stopped listening on port 41523
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1601326585891	Marionette	INFO	Stopped listening on port 46339
+1601326600787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewEm4KI"
+1601326603648	Marionette	INFO	Listening on port 40005
+1601326603696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326672562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP2k2ft"
+1601326675462	Marionette	INFO	Listening on port 45767
+1601326675479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326686942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5CySmj"
+1601326689894	Marionette	INFO	Listening on port 40813
+1601326689952	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601326857264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN2Aykh"
+1601326860299	Marionette	INFO	Listening on port 34771
+1601326860380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601326897298	Marionette	INFO	Stopped listening on port 34771
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1601326947584	Marionette	INFO	Stopped listening on port 45767
