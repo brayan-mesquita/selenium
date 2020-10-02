@@ -2,12 +2,8 @@ from selenium.webdriver import Firefox
 from time import sleep
 
 url = 'https://www.rondoniagora.com/'
-
-
 navegador = Firefox()
-
 navegador.get(url)
-
 sleep(1)
 
 
@@ -21,14 +17,15 @@ sleep(1)
 
 #ENCONTRANDO ELEMENTOS HTML
 
-#lista = navegador.find_element_by_tag_name('li') #primeiro elements
+link = navegador.find_element_by_tag_name('a') #primeiro elements
 listas = navegador.find_elements_by_tag_name('li') # todos elementos
 # print(lista.text)
 
 #DENTRO DA LISTA DE LI PROCURANDO A PRIMEIRA ANCORA
-print(listas[2].find_element_by_tag_name('a').text)
+primeiroa = (listas[2].find_element_by_tag_name('a').text)
 
 #PERCORRENDO TEXTOS DE UMA LISTA
-for texto in listas:
-    print(texto.text)
+#for texto in listas:
+ #   print(texto.text)
 
+link.click()

@@ -324,3 +324,36 @@ Exiting due to channel error.
 1601326897298	Marionette	INFO	Stopped listening on port 34771
 JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
 1601326947584	Marionette	INFO	Stopped listening on port 45767
+1601327044579	Marionette	INFO	Stopped listening on port 40005
+1601327091935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9jyAT9"
+1601327094436	Marionette	INFO	Listening on port 37997
+1601327094460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601327168960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecmAOB2"
+1601327171809	Marionette	INFO	Listening on port 43513
+1601327171887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601327183694	Marionette	INFO	Stopped listening on port 43513
+1601327289325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFo4Ixb"
+1601327292161	Marionette	INFO	Listening on port 43079
+1601327292233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1601327398828	Marionette	INFO	Stopped listening on port 43079
+1601327420197	Marionette	INFO	Stopped listening on port 37997
+1601327433608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKPf5dN"
+1601327436555	Marionette	INFO	Listening on port 42669
+1601327436617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601327504080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileubK6Nx"
+1601327507045	Marionette	INFO	Listening on port 41279
+1601327507088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601327536262	Marionette	INFO	Stopped listening on port 41279
+1601327536713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev1l3Az"
+1601327539605	Marionette	INFO	Listening on port 42027
+1601327539628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601327562179	Marionette	INFO	Stopped listening on port 42027
+1601327563211	Marionette	INFO	Stopped listening on port 42669
+1601604024849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0EfmgB"
+1601604028070	Marionette	INFO	Listening on port 43059
+1601604028163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601604074022	Marionette	INFO	Stopped listening on port 43059
