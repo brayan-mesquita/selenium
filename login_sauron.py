@@ -3,16 +3,15 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
-url = 'https://e-estado.ro.gov.br/'
+url = 'https://meuacesso.sistemas.ro.gov.br//'
 navegador = Firefox()
 navegador.get(url)
 sleep(1)
 
-class Acesso():
-    def __init__(self, cpf, senha, navegador):
+class Sistemas():
+    def __init__(self, cpf, senha):
         self.cpf = cpf
         self.senha = senha
-        self.navegador = navegador
 
     def login_sauron(self):
         cpf = navegador.find_element_by_name('Username')
@@ -25,20 +24,12 @@ class Acesso():
         sleep(1) 
         Keys.ENTER
 
-    def pesquisar(self, tombo):
-        self.navegador.get('https://e-estado.ro.gov.br/patrimonio/bens')
-        pesquisa = self.navegador.find_elements_by_xpath('/html/body/div[2]/div/div/div/div/div[1]/div/div/div/form/div/input')
-        pesquisa[0].send_keys(str(tombo) + Keys.ENTER)
 
-
-
-acesso = Acesso('xxx', 'xxxx!', navegador)
-acesso.login_sauron()
-acesso.pesquisar('4983')
-acesso.pesquisar('4984')
-
+buscar = Sistemas('xx', 'xx!')
+buscar.login_sauron()
 
 # bens = navegador.get('https://e-estado.ro.gov.br/patrimonio/bens')
 # buscar = navegador.find_elements_by_xpath('/html/body/div[2]/div/div/div/div/div[1]/div/div/div/form/div/input')
 
 #criar função com FOR para percorrer os atributos
+buscar[0].send_keys('60792' + Keys.ENTER)
