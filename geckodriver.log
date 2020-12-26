@@ -155,3 +155,308 @@ JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError
 1607560137167	Marionette	INFO	Listening on port 40329
 1607560137278	Marionette	WARN	TLS certificate errors will be ignored for this session
 1607560307990	Marionette	INFO	Stopped listening on port 40329
+1607827292387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb8diqK"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1607827294956	Marionette	INFO	Listening on port 36847
+1607827295020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607827541992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePuF6WS"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1607827543992	Marionette	INFO	Listening on port 40547
+1607827544040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607827545763	Marionette	INFO	Stopped listening on port 36847
+console.info: MINT: main/search-config update being skipped
+1607829347338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevoEX3E"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1607829349316	Marionette	INFO	Listening on port 45039
+1607829349407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607829562841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM3BcTe"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1607829565046	Marionette	INFO	Listening on port 40117
+1607829565174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607829565678	Marionette	INFO	Stopped listening on port 45039
+1607829566380	Marionette	INFO	Stopped listening on port 40547
+console.info: MINT: main/search-config update being skipped
+1607830430671	Marionette	INFO	Stopped listening on port 40117
+1608686560786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerJHLrn"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608686563454	Marionette	INFO	Listening on port 43121
+1608686563540	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+1608687256050	Marionette	INFO	Stopped listening on port 43121
+1608759098177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefsS2pC"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608759100844	Marionette	INFO	Listening on port 37421
+1608759100916	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608759904306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYhw77I"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608759906785	Marionette	INFO	Listening on port 43867
+1608759906841	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+1608760780040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAwzu9F"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1608760782541	Marionette	INFO	Listening on port 40275
+1608760782583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Not Chrome
+JavaScript error: resource:///actors/PromptParent.jsm, line 279: TypeError: win.gBrowser is undefined
+JavaScript error: resource:///actors/PromptParent.jsm, line 279: TypeError: win.gBrowser is undefined
+JavaScript error: moz-extension://25a99161-98b4-4d20-a6db-5a60de2e6e76/js/options.js, line 229: TypeError: $(...)[0] is undefined
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 46: TypeError: tab is undefined
+1608761082772	Marionette	ERROR	[53] No reply from Marionette:Register
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 46: TypeError: tab is undefined
+1608761087261	Marionette	ERROR	[56] No reply from Marionette:Register
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 46: TypeError: tab is undefined
+1608761110925	Marionette	ERROR	[62] No reply from Marionette:Register
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 46: TypeError: tab is undefined
+console.info: MINT: main/search-config update being skipped
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+JavaScript error: moz-extension://25a99161-98b4-4d20-a6db-5a60de2e6e76/js/common.js, line 2420: Error: Network problem
+1608761337408	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+console.info: "Skipping device list refresh; not signed in"
+1608761337412	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1787:18) JS Stack trace: _error@FxAccounts.jsm:1787:18
+withVerifiedAccountState/<@FxAccounts.jsm:805:20
+1608761337413	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+1608761337413	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1787:18) JS Stack trace: _error@FxAccounts.jsm:1787:18
+withVerifiedAccountState/<@FxAccounts.jsm:805:20
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: moz-extension://a7881d54-7db5-498e-9971-3ad729252653/background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:88:51
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:860:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:791:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:859:12
+render/<@chrome://mozapps/content/extensions/aboutaddons.js:2391:15
+render@chrome://mozapps/content/extensions/aboutaddons.js:2350:11
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:416:14
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:416:14
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:416:14
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:416:14
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+JavaScript error: undefined, line 0: Error: frame.state is undefined
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onDocumentChange@resource://gre/modules/WebNavigation.jsm:436:10
+receiveMessage@resource://gre/modules/WebNavigation.jsm:309:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onDocumentChange@resource://gre/modules/WebNavigation.jsm:436:10
+receiveMessage@resource://gre/modules/WebNavigation.jsm:309:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onDocumentChange@resource://gre/modules/WebNavigation.jsm:436:10
+receiveMessage@resource://gre/modules/WebNavigation.jsm:309:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onLoad@resource://gre/modules/WebNavigation.jsm:455:10
+receiveMessage@resource://gre/modules/WebNavigation.jsm:317:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:419:16
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:88:51
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:860:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:791:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:859:12
+render/<@chrome://mozapps/content/extensions/aboutaddons.js:2391:15
+render@chrome://mozapps/content/extensions/aboutaddons.js:2350:11
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:416:14
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:422:16
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:416:14
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onDocumentChange@resource://gre/modules/WebNavigation.jsm:436:10
+receiveMessage@resource://gre/modules/WebNavigation.jsm:309:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onDocumentChange@resource://gre/modules/WebNavigation.jsm:436:10
+receiveMessage@resource://gre/modules/WebNavigation.jsm:309:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onDocumentChange@resource://gre/modules/WebNavigation.jsm:436:10
+receiveMessage@resource://gre/modules/WebNavigation.jsm:309:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onLoad@resource://gre/modules/WebNavigation.jsm:455:10
+receiveMessage@resource://gre/modules/WebNavigation.jsm:317:14
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+fire@resource://gre/modules/WebNavigation.jsm:481:30
+onStateChange@resource://gre/modules/WebNavigation.jsm:419:16
+receiveMessage@resource://gre/modules/WebNavigation.jsm:305:14
+JavaScript error: moz-extension://c3abcd36-483d-4d57-bb9c-bc3621c87ac7/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://c3abcd36-483d-4d57-bb9c-bc3621c87ac7/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://c3abcd36-483d-4d57-bb9c-bc3621c87ac7/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://c3abcd36-483d-4d57-bb9c-bc3621c87ac7/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: moz-extension://c3abcd36-483d-4d57-bb9c-bc3621c87ac7/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.pt_BR.XuA5REq7kKM.O/am=l_m_lEfAlwM_O0YJFQCAgUkImiJUiSf4R0pd_0R_SAD6NSYPAw8jHgDr3IYfAAAAAAAAAAAAAAAAAAAA7GGlgAI/d=1/im=1/dg=0/ct=zgms/rs=AHGWq9BGw2025p40QZdxwOFFsVgNhLXBtA/m=b, line 1093: NS_ERROR_NOT_INITIALIZED: 
+1608761360708	Marionette	ERROR	[125] No reply from Marionette:Register
+1608761360716	Marionette	ERROR	[126] No reply from Marionette:Register
+1608761360772	Sync.SyncScheduler	ERROR	Engine addons found 1 new records that failed to apply
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1608761373977	Sync.ErrorHandler	ERROR	Some engines did not sync correctly.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://addons.mozilla.org"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 119: TypeError: gRecipeManager is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 46: TypeError: tab is undefined
+1608761405160	Marionette	ERROR	[134] No reply from Marionette:Register
+JavaScript error: resource:///actors/LinkHandlerParent.jsm, line 46: TypeError: tab is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://86482574-d4ce-4ebc-89a7-aaa32b760922/popup.js, line 117: TypeError: document.getElementById(...) is null
+1608761411799	Marionette	ERROR	[137] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608761425619	Marionette	ERROR	[143] No reply from Marionette:Register
+1608761426087	Marionette	ERROR	[144] No reply from Marionette:Register
+JavaScript error: moz-extension://86482574-d4ce-4ebc-89a7-aaa32b760922/popup.js, line 117: TypeError: document.getElementById(...) is null
+1608761427316	Marionette	ERROR	[149] No reply from Marionette:Register
+1608761548063	Marionette	ERROR	[150] No reply from Marionette:Register
+JavaScript error: moz-extension://86482574-d4ce-4ebc-89a7-aaa32b760922/popup.js, line 117: TypeError: document.getElementById(...) is null
+1608761549556	Marionette	ERROR	[154] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+1608761734455	Marionette	ERROR	[157] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+1608761754950	Marionette	ERROR	[165] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+1608761798371	Marionette	ERROR	[175] No reply from Marionette:Register
+1608761798492	Marionette	ERROR	[176] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.jsm, line 40: TypeError: aBrowser is null
+1608761801521	Marionette	INFO	Stopped listening on port 43867
+1608761805540	Marionette	INFO	Stopped listening on port 40275
