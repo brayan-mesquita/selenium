@@ -1,20 +1,13 @@
-name = 'brayan'
-class Pessoa():
-    def __init__(self, nome, idade):
-        self.nome = nome
-        self.idade = idade
-    
-    def funcaox(self, va='qualquer'):
-        print(va)
-        
+from datetime import datetime, time
 
-    def gritar(self):
-        print(name)
-        print(self.nome)
-        
-        
+data_e_hora_atuais = datetime.now()
 
 
-pessoa = Pessoa('miguel', 3)
-pessoa.gritar()
-pessoa.funcaox()
+#invervalo = str(datetime.now())[10:-13]
+invervalo = str(datetime.now())[10:16].split(':')
+#invervalo = int(invervalo)
+
+print(data_e_hora_atuais)
+print(invervalo)
+#if invervalo < 7:
+ #   pass #print(invervalo)
